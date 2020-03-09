@@ -11,7 +11,6 @@ Current Projects
 <th>Project</th>
 <th>Documentation</th>
 <th>Test</th>
-<th>TestPip</th>
 <th>Lint</th>
 </tr>
 
@@ -20,7 +19,6 @@ Current Projects
 <td>Generic Object Storage Interface</td>
 <td>[Documentation](https://objio.readthedocs.io/en/latest/)</td>
 <td>[![Test](https://github.com/tmbdev/objio/workflows/Test/badge.svg)](http://github.com/tmbdev/objio/actions)</td>
-<td>[![TestPip](https://github.com/tmbdev/objio/workflows/TestPip/badge.svg)](http://github.com/tmbdev/objio/actions)</td>
 <td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/objio/?ref=repository-badge)</td>
 </tr>
 
@@ -29,7 +27,6 @@ Current Projects
 <td>Processing Tar Files without Unpacking, Map-Reduce</td>
 <td>[Documentation](https://tarproc.readthedocs.io/en/latest/)</td>
 <td>[![Test](https://github.com/tmbdev/tarproc/workflows/Test/badge.svg)](http://github.com/tmbdev/tarproc/actions)</td>
-<td>[![TestPip](https://github.com/tmbdev/tarproc/workflows/TestPip/badge.svg)](http://github.com/tmbdev/tarproc/actions)</td>
 <td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tarproc/?ref=repository-badge)</td>
 </tr>
 
@@ -38,7 +35,6 @@ Current Projects
 <td>Fast Sequential I/O for PyTorch and Tensorflow</td>
 <td>[Documentation](https://webdataset.readthedocs.io/en/latest/)</td>
 <td>[![Test](https://github.com/tmbdev/webdataset/workflows/Test/badge.svg)](http://github.com/tmbdev/webdataset/actions)</td>
-<td>[![TestPip](https://github.com/tmbdev/webdataset/workflows/TestPip/badge.svg)](http://github.com/tmbdev/webdataset/actions)</td>
 <td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/webdataset/?ref=repository-badge)</td>
 </tr>
 
@@ -47,7 +43,6 @@ Current Projects
 <td>Distributed, Scalable Data Augmentation and Loading</td>
 <td>[Documentation](https://tensorcom.readthedocs.io/en/latest/)</td>
 <td>[![Test](https://github.com/NVLabs/tensorcom/workflows/Test/badge.svg)](http://github.com/NVLabs/tensorcom/actions)</td>
-<td>[![TestPip](https://github.com/NVLabs/tensorcom/workflows/TestPip/badge.svg)](http://github.com/NVLabs/tensorcom/actions)</td>
 <td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tensorcom/?ref=repository-badge)</td>
 </tr>
 
@@ -56,7 +51,6 @@ Current Projects
 <td>Additional Layers for PyTorch</td>
 <td>[Documentation](https://torchmore.readthedocs.io/en/latest/)</td>
 <td>[![Test](https://github.com/tmbdev/torchmore/workflows/Test/badge.svg)](http://github.com/tmbdev/torchmore/actions)</td>
-<td>[![TestPip](https://github.com/tmbdev/torchmore/workflows/TestPip/badge.svg)](http://github.com/tmbdev/torchmore/actions)</td>
 <td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/torchmore/?ref=repository-badge)</td>
 </tr>
 
