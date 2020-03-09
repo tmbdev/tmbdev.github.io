@@ -80,9 +80,11 @@ Old Projects
 - [Small C++ Implementation of LSTM Networks and CTC](https://github.com/tmbdev/clstm)
 - [Optimal Geometric Matching with Branch-and-Bound Algorithms](https://github.com/tmbdev/rast)
 - [Deduplicating File System based on FUSE](https://github.com/tmbdev/archivefs)
-- [iPython Notebook to TeX/Beamer Conversion](https://github.com/tmbdev/nb2tex)
-- [Small C++ Pattern Recognition and Image Processing Library](https://github.com/tmbdev/iulib)
-- [Pattern recognition library in Python.](https://github.com/tmbdev/iuprlab)
 - [Python tools for working with the hOCR format](https://github.com/tmbdev/hocr-tools)
+- [Pattern recognition library in Python.](https://github.com/tmbdev/iuprlab)
+- [Small C++ Pattern Recognition and Image Processing Library](https://github.com/tmbdev/iulib)
+<!--
+- [iPython Notebook to TeX/Beamer Conversion](https://github.com/tmbdev/nb2tex)
 - [Pattern recognition library in Fortran](https://github.com/tmbdev/fwork)
 - [LSTM and neural network library in Fortran](https://github.com/tmbdev/flstm)
+-->
