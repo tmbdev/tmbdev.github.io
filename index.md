@@ -15,11 +15,11 @@ Current Projects
 </tr>
 
 <tr>
-<td>[objio](https://github.com/tmbdev/objio)</td>
+<td>[objectio](https://github.com/tmbdev/objectio)</td>
 <td>Generic Object Storage Interface</td>
-<td>[Documentation](https://objio.readthedocs.io/en/latest/)</td>
-<td>[![Test](https://github.com/tmbdev/objio/workflows/Test/badge.svg)](http://github.com/tmbdev/objio/actions)</td>
-<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/objio/?ref=repository-badge)</td>
+<td>[Documentation](https://objectio.readthedocs.io/en/latest/)</td>
+<td>[![Test](https://github.com/tmbdev/objectio/workflows/Test/badge.svg)](http://github.com/tmbdev/objectio/actions)</td>
+<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/objectio/?ref=repository-badge)</td>
 </tr>
 
 <tr>
