@@ -27,57 +27,44 @@ Recent Tutorials
 Active Development
 ----------------
 
-<table>
 
-<tr>
-<th>Github</th>
-<th>Project</th>
-<th>Documentation</th>
-<th>Test</th>
-<th>Lint</th>
-</tr>
+### Generic Object Storage Interface
 
-<tr>
-<td>[objectio](https://github.com/tmbdev/objectio)</td>
-<td>Generic Object Storage Interface</td>
-<td>[Documentation](https://objectio.readthedocs.io/en/latest/)</td>
-<td>[![Test](https://github.com/tmbdev/objectio/workflows/Test/badge.svg)](http://github.com/tmbdev/objectio/actions)</td>
-<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/objectio/?ref=repository-badge)</td>
-</tr>
+[![Test](https://github.com/tmbdev/objectio/workflows/Test/badge.svg)](http://github.com/tmbdev/objectio/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/objectio/?ref=repository-badge)
 
-<tr>
-<td>[tarproc](https://github.com/tmbdev/tarproc)</td>
-<td>Processing Tar Files without Unpacking, Map-Reduce</td>
-<td>[Documentation](https://tarproc.readthedocs.io/en/latest/)</td>
-<td>[![Test](https://github.com/tmbdev/tarproc/workflows/Test/badge.svg)](http://github.com/tmbdev/tarproc/actions)</td>
-<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tarproc/?ref=repository-badge)</td>
-</tr>
+- [objectio](https://github.com/tmbdev/objectio)
+- [Documentation](https://objectio.readthedocs.io/en/latest/)
 
-<tr>
-<td>[webdataset](https://github.com/tmbdev/webdataset)</td>
-<td>Fast Sequential I/O for PyTorch and Tensorflow</td>
-<td>[Documentation](https://webdataset.readthedocs.io/en/latest/)</td>
-<td>[![Test](https://github.com/tmbdev/webdataset/workflows/Test/badge.svg)](http://github.com/tmbdev/webdataset/actions)</td>
-<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/webdataset/?ref=repository-badge)</td>
-</tr>
+### Processing Tar Files without Unpacking, Map-Reduce
 
-<tr>
-<td>[tensorcom](https://github.com/NVLabs/tensorcom)</td>
-<td>Distributed, Scalable Data Augmentation and Loading</td>
-<td>[Documentation](https://tensorcom.readthedocs.io/en/latest/)</td>
-<td>[![Test](https://github.com/NVLabs/tensorcom/workflows/Test/badge.svg)](http://github.com/NVLabs/tensorcom/actions)</td>
-<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tensorcom/?ref=repository-badge)</td>
-</tr>
+[![Test](https://github.com/tmbdev/tarproc/workflows/Test/badge.svg)](http://github.com/tmbdev/tarproc/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tarproc/?ref=repository-badge)
 
-<tr>
-<td>[torchmore](https://github.com/tmbdev/torchmore)</td>
-<td>Additional Layers for PyTorch</td>
-<td>[Documentation](https://torchmore.readthedocs.io/en/latest/)</td>
-<td>[![Test](https://github.com/tmbdev/torchmore/workflows/Test/badge.svg)](http://github.com/tmbdev/torchmore/actions)</td>
-<td>[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/torchmore/?ref=repository-badge)</td>
-</tr>
+- [tarproc](https://github.com/tmbdev/tarproc)
+- [Documentation](https://tarproc.readthedocs.io/en/latest/)
 
-</table>
+
+### Fast I/O Pipelines for PyTorch and Tensorflow
+
+[![Test](https://github.com/tmbdev/webdataset/workflows/Test/badge.svg)](http://github.com/tmbdev/webdataset/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/webdataset/?ref=repository-badge)
+
+- [webdataset](https://github.com/tmbdev/webdataset)
+- [Documentation](https://webdataset.readthedocs.io/en/latest/)
+
+### Distributed, Scalable Data Augmentation and Loading
+
+[![Test](https://github.com/NVLabs/tensorcom/workflows/Test/badge.svg)](http://github.com/NVLabs/tensorcom/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tensorcom/?ref=repository-badge)
+
+- [tensorcom](https://github.com/NVLabs/tensorcom)
+- [Documentation](https://tensorcom.readthedocs.io/en/latest/)
+
+
+### Additional Layers for PyTorch
+
+[![Test](https://github.com/tmbdev/torchmore/workflows/Test/badge.svg)](http://github.com/tmbdev/torchmore/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/torchmore/?ref=repository-badge)
+
+- [torchmore](https://github.com/tmbdev/torchmore)
+- [Documentation](https://torchmore.readthedocs.io/en/latest/)
+
 
 Courses
 -------
