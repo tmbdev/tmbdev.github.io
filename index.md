@@ -1,7 +1,25 @@
 Tom's Github Repositories
 ==========================
 
-Current Projects
+I'm a researcher at NVIDIA, working on petascale deep learning, self-supervised
+training, text recognition, causality and sequence modeling, and the 
+connection between statistics and deep learnining.
+
+Prior to NVIDIA, I worked at Google Brain, Xerox PARC, and IBM Research.
+I was a tenured professor of computer science at the University of
+Kaiserslautern, heading a large research group working on image understanding
+and machine learning. Among others, my group developed cancer detection,
+OCR and text recognition, and image segmentation techniques based on deep
+learning techniques in the 2000s.
+
+Recent Tutorials
+----------------
+
+- [ICDAR 2019 Tutorial](https://github.com/tmbdev/icdar19-tutorial) on Deep Learning for Document Analysis
+- [BigData 2019 Tutorial](https://github.com/tmbdev/bigdata19-tutorial) on Large Scale Learning with GPUs
+- [Deep Learning 2018 Tutorial](https://github.com/tmbdev/dl-2018) on Deep Learning and its Connections with Statistics and Pattern Recognition
+
+Active Development
 ----------------
 
 <table>
