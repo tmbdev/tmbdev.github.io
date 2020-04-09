@@ -1,8 +1,8 @@
-Tom's Github Repositories
-==========================
+Thomas Breuel
+=============
 
 I'm a researcher at NVIDIA, working on petascale deep learning, self-supervised
-training, text recognition, causality and sequence modeling, and the 
+training, text recognition, causality and sequence modeling, and the
 connection between statistics and deep learnining.
 
 Prior to NVIDIA, I worked at Google Brain, Xerox PARC, and IBM Research.
@@ -11,6 +11,11 @@ Kaiserslautern, heading a large research group working on image understanding
 and machine learning. Among others, my group developed cancer detection,
 OCR and text recognition, and image segmentation techniques based on deep
 learning techniques in the 2000s.
+
+This is just a quick collection of links of resources that people might find
+useful or that I have mentioned during talks.
+Please see [LinkedIn](http://linkedin.com/in/tbreuel) for more (and more
+up-to-date) professional information.
 
 Recent Tutorials
 ----------------
