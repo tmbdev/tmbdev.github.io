@@ -24,46 +24,12 @@ Recent Tutorials
 - [BigData 2019 Tutorial](https://github.com/tmbdev/bigdata19-tutorial) on Large Scale Learning with GPUs
 - [Deep Learning 2018 Tutorial](https://github.com/tmbdev/dl-2018) on Deep Learning and its Connections with Statistics and Pattern Recognition
 
-Active Development
-----------------
+(More in recent years.)
 
+Main Current Github Projects
+--------------------
 
-### Generic Object Storage Interface
-
-[![Test](https://github.com/tmbdev/objectio/workflows/Test/badge.svg)](http://github.com/tmbdev/objectio/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/objectio/?ref=repository-badge)
-
-- [objectio](https://github.com/tmbdev/objectio)
-- [Documentation](https://objectio.readthedocs.io/en/latest/)
-
-### Processing Tar Files without Unpacking, Map-Reduce
-
-[![Test](https://github.com/tmbdev/tarproc/workflows/Test/badge.svg)](http://github.com/tmbdev/tarproc/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tarproc/?ref=repository-badge)
-
-- [tarproc](https://github.com/tmbdev/tarproc)
-- [Documentation](https://tarproc.readthedocs.io/en/latest/)
-
-
-### Fast I/O Pipelines for PyTorch and Tensorflow
-
-[![Test](https://github.com/tmbdev/webdataset/workflows/Test/badge.svg)](http://github.com/tmbdev/webdataset/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/webdataset/?ref=repository-badge)
-
-- [webdataset](https://github.com/tmbdev/webdataset)
-- [Documentation](https://webdataset.readthedocs.io/en/latest/)
-
-### Distributed, Scalable Data Augmentation and Loading
-
-[![Test](https://github.com/NVLabs/tensorcom/workflows/Test/badge.svg)](http://github.com/NVLabs/tensorcom/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/tensorcom/?ref=repository-badge)
-
-- [tensorcom](https://github.com/NVLabs/tensorcom)
-- [Documentation](https://tensorcom.readthedocs.io/en/latest/)
-
-
-### Additional Layers for PyTorch
-
-[![Test](https://github.com/tmbdev/torchmore/workflows/Test/badge.svg)](http://github.com/tmbdev/torchmore/actions) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/tmbdev/torchmore/?ref=repository-badge)
-
-- [torchmore](https://github.com/tmbdev/torchmore)
-- [Documentation](https://torchmore.readthedocs.io/en/latest/)
+- WebDataset and WIDS at [webdataset.org](http://webdataset.org/)
 
 
 Courses
